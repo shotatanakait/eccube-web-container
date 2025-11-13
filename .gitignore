@@ -4,3 +4,23 @@
 # Docker関連
 *.log
 
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE / エディタ
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# 一時ファイル
+*.tmp
+*.bak
+*.cache
+
